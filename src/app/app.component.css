@@ -1,0 +1,17 @@
+body {}
+
+.container-buttons {
+    height: 1000px;
+}
+
+.container {
+    width: 100%;
+    padding: 1rem;
+    outline: 1px solid rebeccapurple;
+    text-align: center;
+    height: 400px;
+}
+
+app-home {
+    height: 600px;
+}
